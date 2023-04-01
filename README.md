@@ -10,8 +10,8 @@ A simple calculator made using HTML, CSS and Javascript
 
 
 ## Demo
-![No Calculation](screenshots\SimpleCalc1.png)
-![With Calculation](screenshots\SimpleCalc.png)
+![No Calculation](/screenshots/SimpleCalc1.png)
+![With Calculation](/screenshots/SimpleCalc.png)
 
 
 ## Run Locally
